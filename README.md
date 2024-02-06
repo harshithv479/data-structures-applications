@@ -1,5 +1,5 @@
 # data-structures-applications
-This is my first application on data structures
+//This is my first application on data structures
 #include<stdio.h>
 #include<stdlib.h>
 struct Day{
@@ -52,7 +52,5 @@ int main()
     display(calender,size);
     freememory(calender,size);
     free(calender);
-
     return 0;
-
 }
